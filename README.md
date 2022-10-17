@@ -7,9 +7,9 @@ index.html dosyası barındırıyor
 ## Installation
 Öncelikle projeyi clonlayın.(Buraya sizin projenizden aldığınız link gelecek)
 
-'''bash
+```bash
 git clone https://github.com/KaderErgin/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 Projeyi clonladıktan sonra Visual Code Programından açınız.
