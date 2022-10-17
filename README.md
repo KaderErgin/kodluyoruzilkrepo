@@ -9,16 +9,16 @@ index.html dosyası barındırıyor
 
 ```bash
 git clone https://github.com/KaderErgin/kodluyoruzilkrepo.git
-```
+```  
 
 ## Usage
 Projeyi clonladıktan sonra Visual Code Programından açınız.
 
 Linux için:
-'''linux
+´´´linux
 cd kodluyoruzilkrepo
 code .
-'''
+´´´
 ## Contributing
 Pull requstler kabul edilir.Büyük değişikşikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
