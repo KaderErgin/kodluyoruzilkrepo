@@ -25,6 +25,5 @@ Pull requstler kabul edilir.Büyük değişiklikler için, lütfen önce neyi de
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Patika
-[Patika](https://app.patika.dev/)
+### [patika_profile](https://academy.patika.dev/tr/profile)<br>
 
